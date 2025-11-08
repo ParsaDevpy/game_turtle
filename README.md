@@ -1,4 +1,4 @@
-simple code with turtle
+simple game with turtle
 ## installation 
 python 3.13 and above
 pip install turtle
